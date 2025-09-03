@@ -27,7 +27,6 @@
 - *TeCoPhy: A Text Corpus of German Physics Texts* — ICCL, Oviedo (2023)  
 
 ---
-
 ## 📫 Contact
 - ✉️ [vitorlecio@gmail.com](mailto:vitorlecio@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitor-fontanella/)  
