@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vitor Fontanella  
+## Hi, I’m Vitor Fontanella
 
 ---
 ## 🧑‍💻 About Me
