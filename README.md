@@ -1,33 +1,35 @@
-## Hi, I'm **Vitor LL Fontanella**.
+## Hi, I'm **Vitor LL Fontanella**
 
-I am a Data Scientist with a background in Physics, currently based in Nice, France. My work focuses primarily on Natural Language Processing (NLP) and applied machine learning. I have experience with domain-specific language modeling, ambiguity detection, embeddings-based classification, and Large Language Model (LLM) adaptation. Beyond NLP, I am eager to work on broader data science problems involving modeling, prediction, and data-driven decision making. My background in physics provides strong mathematical and analytical foundations, allowing me to quickly adapt to new domains and technical challenges.
+NLP Engineer with a background in Physics, based in Nice, France. I build and research language technologies — from domain-specific ambiguity detection and embedding-based classification to LLM fine-tuning and RAG systems. My physics training gives me a strong mathematical foundation and a research-driven approach to applied NLP/LLM and AI systems.
 
-Check my [repositories](https://github.com/vitorlecio?tab=repositories) for portfolio projects. **(Under construction)**
+📫 Open to roles in applied NLP, AI Engineering, and data science.
+🔗 [LinkedIn](https://linkedin.com/in/vitor-fontanella/) · [Repositories](https://github.com/vitorlecio?tab=repositories)
+
+---
+
+## 🚀 Featured Project
+
+**[RAG Agent](https://github.com/vitorlecio/rag_agent)** — ReAct-style agent (LangGraph + GPT-4.1-mini) with two-stage retrieval (ChromaDB bi-encoder + optional reranking), bounded tool-call loops, and P@k-driven evaluation of retrieval design choices.
 
 ---
 
 ## Experience
-- Assistant Researcher – University of Hagen (Germany): AI-based feedback systems  
-- Scientific Assistant – Leibniz University Hannover: NLP analysis, ambiguity detection, LLM adaptation  
-- Lecturer – Data Science & Python (Hochschule Hannover, 2020–2023)  
+
+- **Assistant Researcher** — University of Hagen, Germany (2024–2025): Built an LLM-based automated feedback application with a custom RAG module
+- **Scientific Assistant** — Leibniz University Hannover (2020–2024): Unsupervised ambiguity detection, domain-specific corpus curation, embedding-based classification with contrastive fine-tuning
+- **Lecturer** — Hochschule Hannover (2021–2023): Introduction to NLP and Programming in Python
 
 ---
 
 ## Technical Skills
-**Programming:** Python, SQL  
-**Data Science & ML:** statistical analysis, machine learning pipelines  
-Libraries: pandas, NumPy, SciPy, scikit-learn, matplotlib  
 
-**NLP & LLMs:**  Classification, embeddings, fine-tuning, Retrieval-Augmented Generation (RAG)  
-Libraries: PyTorch, Hugging Face Transformers  
+**NLP & LLMs:** Fine-tuning, RAG, embeddings, contrastive learning, classification
+**Frameworks:** PyTorch, Hugging Face Transformers, LangChain/LangGraph
+**Data Science:** Python, SQL, pandas, NumPy, SciPy, scikit-learn, matplotlib
 
 ---
 
 ## Publications
 
-- *Unsupervised Methods for Domain-Specific Ambiguity Detection* — IWCS (2023)  
-- *TeCoPhy: A Text Corpus of German Physics Texts* — ICCL (2023)  
-
----
-
-See my repositories below for project implementations and experiments.
+- *Unsupervised Methods for Domain-Specific Ambiguity Detection* — IWCS (2023)
+- *TeCoPhy: A Text Corpus of German Physics Texts* — ICCL (2023)
