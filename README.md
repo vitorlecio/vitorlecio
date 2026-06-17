@@ -9,8 +9,7 @@ NLP Engineer with a background in Physics, based in Nice, France. I build and re
 
 ## 🚀 Featured Project
 
-**[RAG Agent](https://github.com/vitorlecio/hf_rag_agent)** — ReAct-style agent (LangGraph + GPT-4.1-mini) with two-stage retrieval (ChromaDB bi-encoder + optional reranking), bounded tool-call loops, and P@k-driven evaluation of retrieval design choices.
-
+**[RAG Agent](https://github.com/vitorlecio/hf_rag_agent)** — Conversational Q&A agent over the Hugging Face Transformers docs (LangGraph + GPT-4.1-mini, ChromaDB) with multi-hop retrieval and an evaluation that found two-stage reranking made retrieval *worse*, not better, on this corpus.
 ---
 
 ## Experience
