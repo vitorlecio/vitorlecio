@@ -10,7 +10,7 @@ NLP Engineer with a background in Physics, based in Nice, France. I build and re
 ## 🚀 Featured Project
 
 **[RAG Agent](https://github.com/vitorlecio/hf_rag_agent)** — Conversational Q&A agent over the Hugging Face Transformers docs (LangGraph + GPT-4.1-mini, ChromaDB) with multi-hop retrieval and an evaluation that found two-stage reranking made retrieval *worse*, not better, on this corpus.
-
+**[EmbedLab](https://github.com/vitorlecio/embedlab)** — From-scratch PyTorch implementation of contrastive text representation learning (siamese + NT-Xent) and a JEPA-inspired self-supervised extension, benchmarked against SBERT on STS-B with UMAP visualisation of embedding space evolution.
 ---
 
 ## Experience
