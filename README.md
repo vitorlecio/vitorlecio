@@ -11,7 +11,9 @@ NLP Engineer with a background in Physics, based in Nice, France. I build and re
 
 **[RAG Agent](https://github.com/vitorlecio/hf_rag_agent)** — Conversational Q&A agent over the Hugging Face Transformers docs (LangGraph + GPT-4.1-mini, ChromaDB) with multi-hop retrieval and an evaluation that found two-stage reranking made retrieval *worse*, not better, on this corpus.
 
-**[EmbedLab](https://github.com/vitorlecio/embedlab)** — From-scratch PyTorch implementation of contrastive text representation learning (siamese + NT-Xent) and a JEPA-inspired self-supervised extension, benchmarked against SBERT on STS-B with UMAP visualisation of embedding space evolution.
+**[EmbedLab](https://github.com/vitorlecio/embedlab)** — [In Construction] From-scratch PyTorch implementation of contrastive text representation learning (siamese + NT-Xent) and a JEPA-inspired self-supervised extension, benchmarked against SBERT on STS-B with UMAP visualisation of embedding space evolution.
+
+**[BERToscope](https://github.com/vitorlecio/bertoscope)** - [In Construction] Layer-by-layer probing of BERT hidden states (12 layers $\times$ 3 pooling strategies) on STS-B, attention-based collocation analysis, and geometric analysis of code/prose divergence in embedding space — motivated by a retrieval failure observed in the RAG Agent project. Genre-aware retrieval score calibration derived from the layer analysis; P@k improvement measured against the RAG Agent eval harness with no model retraining.
 
 ---
 
